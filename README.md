@@ -16,3 +16,6 @@
 ###THEN the text for that event is saved in local storage
 ##WHEN I refresh the page
 ###THEN the saved events persist
+
+![image](https://github.com/JasonArriaza/word-day-planner/assets/98302556/d05099d6-67ff-44bd-9edb-e28e09b82553)
+
